@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/pZfd27M/Rectangle-2-2.png",
+    "title": "Introduction to Programming",
+    "description": "Learn the fundamentals of programming using Python. This course covers basic concepts such as variables, control structures, functions, and error handling.",
+    "price": 299,
+    "credit": 3
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/hsS3y8M/Rectangle-2.png",
+    "title": "Advanced Web Development",
+    "description": "Dive into advanced topics in web development, including modern frameworks, APIs, and best practices for building scalable web applications.",
+    "price": 399,
+    "credit": 4
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/VD9pybq/Rectangle-2-1.png",
+    "title": "Data Science Essentials",
+    "description": "Explore key concepts in data science, including data analysis, visualization, and machine learning. Ideal for those looking to enter the data science field.",
+    "price": 499,
+    "credit": 4
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/1Tz42nG/Rectangle-2-3.png",
+    "title": "Machine Learning Fundamentals",
+    "description": "Understand the core principles of machine learning and how to apply them using popular algorithms and libraries. Suitable for beginners with a basic understanding of programming.",
+    "price": 349,
+    "credit": 3
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/j4k0k1V/Rectangle-2-4.png",
+    "title": "Digital Marketing Strategy",
+    "description": "Learn the strategies and techniques for effective digital marketing, including SEO, content marketing, social media, and email campaigns.",
+    "price": 279,
+    "credit": 3
+  },
+  {
+    "id": 6,
+    "cover": "https://i.ibb.co/pJjpFpX/Rectangle-2-5.png",
+    "title": "Graphic Design Basics",
+    "description": "Master the fundamentals of graphic design with hands-on projects in tools like Adobe Photoshop and Illustrator. Perfect for aspiring designers.",
+    "price": 329,
+    "credit": 3
+  },
+  {
+    "id": 7,
+    "cover": "https://i.ibb.co/g7wWxML/Rectangle-2-6.png",
+    "title": "Introduction to Cybersecurity",
+    "description": "Get an overview of cybersecurity principles, threats, and defenses. This course is designed for beginners interested in protecting information systems.",
+    "price": 399,
+    "credit": 4
+  },
+  {
+    "id": 8,
+    "cover": "https://i.ibb.co/wJMVBGY/Rectangle-3.png",
+    "title": "Project Management Professional",
+    "description": "Prepare for the PMP certification exam with comprehensive coverage of project management principles, processes, and best practices.",
+    "price": 499,
+    "credit": 5
+  },
+  {
+    "id": 9,
+    "cover": "https://i.ibb.co/5YF6BFs/Rectangle-3-1.png",
+    "title": "Financial Accounting Basics",
+    "description": "Gain a solid foundation in financial accounting principles, including recording transactions, preparing financial statements, and understanding accounting cycles.",
+    "price": 279,
+    "credit": 3
+  },
+  {
+    "id": 10,
+    "cover": "https://i.ibb.co/j4k0k1V/Rectangle-2-4.png",
+    "title": "Web Design with HTML & CSS",
+    "description": "Learn how to design and create modern, responsive websites using HTML and CSS. This course covers web design principles, layout techniques, and styling.",
+    "price": 349,
+    "credit": 3
+  }
+]
